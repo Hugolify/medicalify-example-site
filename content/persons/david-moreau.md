@@ -4,7 +4,7 @@ draft: false
 title: David Moreau
 persons_statutes: Kinésiologue
 persons_expertises:
-  - Kinésiologie
+  - kinesiologie
 description: Aenean bibendum vulputate facilisis. Class aptent taciti sociosqu
   ad litora torquent per conubia nostra, per inceptos himenaeos.
 image:

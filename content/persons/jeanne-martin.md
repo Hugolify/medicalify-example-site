@@ -4,7 +4,7 @@ draft: false
 title: Jeanne Martin
 persons_statutes: Généraliste
 persons_expertises:
-  - Médecine générale
+  - medecine-generale
 description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
   hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh.
   Cras ac facilisis nunc.

@@ -4,7 +4,7 @@ draft: false
 title: Clément Thomas
 persons_statutes: Généraliste
 persons_expertises:
-  - Médecine générale
+  - medecine-generale
 description: Aenean bibendum vulputate facilisis.
 image:
   credit: Photo de [Dmitry

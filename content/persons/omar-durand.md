@@ -4,7 +4,7 @@ draft: false
 title: Omar Durand
 persons_statutes: Ostéopathe
 persons_expertises:
-  - Ostéopathie
+  - osteopathie
 description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin lectus dictum.
 image:
   src: /images/uploads/ali-morshedlou-wmd64tmfc4k-unsplash.jpg

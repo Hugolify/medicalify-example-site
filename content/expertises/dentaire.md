@@ -1,4 +1,5 @@
 ---
+isIndex: false
 title: Dentaire
 image:
   src: /images/uploads/atikah-akhtar-XJptUS8nbhs-unsplash.jpg

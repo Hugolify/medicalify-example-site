@@ -4,7 +4,7 @@ draft: false
 title: Louis Dubois
 persons_statutes: Chirurgien-dentiste
 persons_expertises:
-  - Dentaire
+  - dentaire
 description: Vestibulum vulputate odio eget risus lacinia, eget sollicitudin
   lectus dictum. Donec varius velit nisi, a accumsan odio molestie ut. Donec
   quis tristique elit. Nunc tempus tempor neque a fringilla.

@@ -6,8 +6,8 @@ persons_statutes:
   - Gynécologue
   - Pédiatre
 persons_expertises:
-  - Gynécologie
-  - Pédiatrie
+  - gynecologie
+  - pediatrie
 description: Suspendisse egestas augue a egestas consectetur. Aliquam interdum
   hendrerit porta. Maecenas at quam vel lorem malesuada euismod nec vel nibh.
   Cras ac facilisis nunc.

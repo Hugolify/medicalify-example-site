@@ -4,7 +4,7 @@ draft: false
 title: Léa Payet
 persons_statutes: Chirurgien-dentiste
 persons_expertises:
-  - Dentaire
+  - dentaire
 description: Vivamus tincidunt malesuada lorem eget sodales. Praesent sit amet
   risus augue. Aliquam gravida posuere lectus ut volutpat.
 image:

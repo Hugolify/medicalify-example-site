@@ -4,7 +4,7 @@ draft: false
 title: Alexandre Petit
 persons_statutes: Généraliste
 persons_expertises:
-  - Médecine générale
+  - medecine-generale
 description: Ut id fringilla augue, quis gravida felis. Morbi eu lorem nibh.
   Aenean ullamcorper, ante nec imperdiet dignissim, ante felis scelerisque
   magna, id rutrum ipsum leo id massa. Integer egestas risus in ex venenatis
