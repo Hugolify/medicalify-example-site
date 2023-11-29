@@ -12,7 +12,8 @@ blocks:
     zoom: 14
     heading:
       title: Nulla luctus quam ut nisi tincidunt lobortis. Vestibulum sed bibendum lectus.
-      text: Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
+      text:
+        Duis placerat quam et ante pellentesque, et porttitor lectus sollicitudin.
         Fusce maximus hendrerit eros, sed pulvinar erat pretium eget.
   - type: faq
     items:

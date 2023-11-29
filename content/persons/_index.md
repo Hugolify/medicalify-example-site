@@ -6,11 +6,11 @@ hero:
   surtitle: Medicalify
   title: Le cabinet
   text: Quisque vestibulum, mi eget semper laoreet, odio quam ullamcorper turpis, auctor fermentum magna leo eget nisi. Fusce id imperdiet nunc.
-blocks: 
+blocks:
   - type: figure
     offset: center
     grid: medium
-    heading: 
+    heading:
       title: Odio quam ullamcorper turpis
     figure:
       src: /images/uploads/martha-dominguez-de-gouveia-nMyM7fxpokE-unsplash.jpg
